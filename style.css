@@ -1,6 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 40px;
+}
 body{
-    text-align: center; 
-     font-size: 60px;
-    width: 50px;
+    text-align: center;
+     font-size: 50px;
+    background-color: rgb(35, 32, 51);
+
+}
+div{
+    font-size: 30px;
+}
+a:hover{
+    color:  black;
 
 }
